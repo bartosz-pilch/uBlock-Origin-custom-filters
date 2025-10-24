@@ -1,0 +1,12 @@
+Add these to the custom ublock filter section:
+ 
+ https://filters.adtidy.org/extension/ublock/filters/14.txt
+ https://filters.adtidy.org/extension/ublock/filters/3.txt
+ https://hole.cert.pl/domains/v2/domains_adblock.txt
+ https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
+ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+ https://winhelp2002.mvps.org/hosts.txt
+ https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt
+ https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
+ https://badmojr.github.io/1Hosts/Lite/adblock.txt
+ 
